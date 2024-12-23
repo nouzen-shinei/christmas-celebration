@@ -1,11 +1,11 @@
-🎄 Christmas Celebration Project 🎅
-
+## 🎄 Christmas Celebration Project 🎅
+ 
 Celebrate the joy of Christmas with this beautiful two-page website designed using HTML, CSS, and JavaScript. This project captures the festive spirit with a sleek, modern design and interactive elements, perfect for spreading holiday cheer online!
 
 
 ---
 
-✨ Features
+## ✨ Features
 
 Modern Design: A visually appealing layout with festive colors and decorations.
 
@@ -24,7 +24,7 @@ Two Pages:
 
 ---
 
-🌟 Technologies Used
+## 🌟 Technologies Used
 
 HTML: For the structure of the website.
 
@@ -36,13 +36,13 @@ JavaScript: For interactive and dynamic features.
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-1. Home Page
+### 1. Home Page
 ![Preview image 1](/screenshot1.png)
 
 
-2. Celebration Page
+### 2. Celebration Page
 
 ![Preview image 2](/screenshot2.png)
 
@@ -50,7 +50,7 @@ JavaScript: For interactive and dynamic features.
 
 ---
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 1. Clone this repository using:
 ```
@@ -67,13 +67,13 @@ git clone https://github.com/nouzen-shinei/christmas-celebration.git
 
 ---
 
-🛠️ Customization
+## 🛠️ Customization
 
 Feel free to fork this repository and customize the content or design to make it your own. Share it with friends and family to spread the holiday cheer! 🎄🎁
 
 
 ---
 
-🎉 Connect
+## 🎉 Connect
 
 If you like this project, feel free to star ⭐ the repository and connect with me for more creative projects!
