@@ -16,7 +16,7 @@ Two Pages:
 1. Home Page: Welcomes visitors with a Christmas greeting and animations.
 
 
-2. Celebration Page: Displays Christmas traditions, wishes, or fun activities.
+2. Celebration Page: Displays Christmas wishes and some nice animations.
 
 
 
